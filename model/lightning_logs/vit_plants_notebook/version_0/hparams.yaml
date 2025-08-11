@@ -1,0 +1,6 @@
+backbone_name: vit_base_patch16_224
+freeze_backbone: false
+lr: 0.0003
+num_classes: 47
+pretrained: true
+weight_decay: 0.01
