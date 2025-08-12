@@ -1,5 +1,6 @@
+# .gitignore
 *.pth
 *.pt
 *.ckpt
-
+# Model files
 saved_models/
